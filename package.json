@@ -1,0 +1,8 @@
+{
+  "name": "params-translator",
+  "version": "1.0.0",
+  "description": "将对象形式的obj转换为parmas形式的字符串",
+  "main": "src/index.js",
+  "author": "lzr",
+  "license": "MIT"
+}
